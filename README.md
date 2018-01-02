@@ -2,7 +2,7 @@
 
 #Step to configure peoject
 #1.  Open the onlineExaminationSystem fine in Netbeans or in any IDE that supports JAVA(JSP).
-#2. Import the jar file to library,which is been already thier.If any problem occured just resolve it.
+#2. Import the jar file name(mysql-connector-java-5.1.10-bin.jar) to library,which is been already thier.If any problem occured just resolve it.
 #3. Setting up the database i.e MYSQL.
      #database name is onlineexam.
      #tables are studentdetails,apptitude,c,cc,gk,java,mysql

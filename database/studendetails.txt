@@ -1,0 +1,11 @@
+suraj	singh	speedy	1234	December/30/1992	Male	9324952403
+rajesh	kumar	rajesh	rajesh	December/25/1993	Male	8898160938
+rohit	pagare	rohit123	rohit@123	January/14/1994	Male	7504654290
+rohit	kelshikar	kelshi	qwerty	April/5/1991	Male	7504894290
+manish	mahatre	parrot	1234parrot	October/23/1995	Male	8898123406
+pravin	prayan	pravin@sam	sam	November/25/1991	Male	7650986543
+nikhil	kulkarni	kulkar	nikkul	March/15/1991	Male	9898762430
+sandeep	patil	sandeeppatil	sanp	January/31/1990	Male	8876092430
+manish	bhalerao	manish@g	cat	April/7/1990	Male	7506055358
+pooja	sharma	poojash	bird	May/1/1992	Female	9976658870
+hemant	yadav	hemant	hemt	March/23/1992	Male	9876468765

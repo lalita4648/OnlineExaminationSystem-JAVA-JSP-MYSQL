@@ -1,0 +1,18 @@
+Which is a reserved word in the Java programming language?	method	native	array	native
+What is the numerical range of a char?	-128 to 127	-(215) to (215) - 1	0 to 65535	0 to 65535
+Which class cannot be a subclass in java?	abstract class	parent class	final class	final class
+Can we declare abstract static method	Yes	No	Both A and B	No
+Can we access private class outside the package?	Yes	No	Both A and B	No
+Why we use array as a parameter of main method?	it is syntax	Can store multiple values	Both of above	Can store multiple values
+Suspend thread can be revived by using?	start() method	Suspend() method	resume() method	resume() method
+Runnable is?	Interface	Class	Method	Interface
+Which method is used to perform DML statements in JDBC?	execute()	executeUpdate()	executeQuery()	executeUpdate()
+Session beans are created by the client submitting the query to the database?	True	False	None	True
+ Program which executes applet is known as?	applet engine	virtual machine	JVM	applet engine
+Smallest individual unit in java program is known as	String	Literal	Token	Token
+How many keywords are available in java?	46	47	48	48
+ javah stands for?	Java Compiler	Java Interpreter	Java header file	Java header file
+ Which driver is efficient and always preferable for using JDBC applications?	Type-4 driver	Type-3 driver	Type-1 driver	Type-4 driver
+Executable applet is?	.applet file	.java html	.class file	.class file
+Which keyword is used while using interface?	extend	implements	throw	implements
+Hot java is?	System Software	Web Browser	IDE	Web Browser

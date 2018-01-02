@@ -1,0 +1,15 @@
+What does SQL stands for ?	Strong Question Language	Structured Query Language	Structured Question Language	Structured Query Language
+Which SQL statement is used to update data in a database ?	SAVE	UPDATE	MODIFY	UPDATE
+Which SQL statement is used to delete data from a database ?	REMOVE	DELETE	COLLAPSE	DELETE
+Which SQL statement is used to insert new data in a database ?	Add new	Insert into	Insert new	Insert into
+With SQL, how do you select a column named "FirstName" from a table named "Persons" ?	SELECT FirstName FROM Persons	EXTRACT FirstName FROM Persons	SELECT Persons.FirstName	SELECT FirstName FROM Persons
+With SQL, how do you select all the columns from a table named "Persons" ?	SELECT [all] FROM Persons	SELECT * FROM Persons	SELECT *.Persons	SELECT * FROM Persons
+The OR operator displays a record if ANY conditions listed are true. The AND operator displays a record if ALL of the conditions listed are true ?	True	False	Both A and B	True
+Which SQL statement is used to return only different values ?	SELECT UNIQUE	SELECT DIFFERENT	SELECT DISTINCT	SELECT DISTINCT
+With SQL, how can you insert a new record into the "Persons" table ?	INSERT ('Jimmy', 'Jackson') INTO Persons	INSERT INTO Persons VALUES ('Jimmy', 'Jackson')	INSERT VALUES ('Jimmy', 'Jackson') INTO Persons	INSERT INTO Persons VALUES ('Jimmy', 'Jackson')
+The FROM SQL clause is used to a ?	specify range for search condition	specify search condition	specify what table we are selecting or deleting data from	specify what table we are selecting or deleting data from
+With SQL, how can you return the number of records in the "Persons" table ?	SELECT COUNT() FROM Persons	SELECT COUNT(*) FROM Persons	SELECT COLUMNS(*) FROM Persons	SELECT COUNT(*) FROM Persons
+Which of the following is NOT a SQL keyword or SQL clause ?	Insert	Select	Invert	Invert
+What does DML stand for ?	Different Mode Level	Data Model Language	Data Manipulation language	Data Manipulation language
+Which SQL keyword is used to retrieve a maximum value ?	MOST	MAX	TOP	MAX
+Which of the following SQL statement is correct ?	select customername,count(customername) from orders	select customername,count(customername) from orders group by  customer name	select customername,count(customername) from orders order by  customer name	select customername,count(customername) from orders group by  customer name

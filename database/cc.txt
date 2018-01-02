@@ -1,0 +1,17 @@
+Which of the following type of class allows only one object of it to be created?	Virtual class	Abstract class	Singleton class	Singleton class
+Which of the following is not a type of constructor?	Copy constructor	Friend constructor	Default constructor	Friend constructor
+Which of the following statements is correct?	Base class pointer cannot point to derived class.	Derived class pointer cannot point to base class.	Pointer to base class cannot be created.	Derived class pointer cannot point to base class.
+Which of the following is not the member of class?	Static function	Const function	Friend function	Friend function
+Which of the following term is used for a function defined inside a class?	Member Variable	Member function	Class function	Member function
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?	Call by value	Call by reference	Default arguments	Default arguments
+How many instances of an abstract class can be created?	1	5	0	0
+Which of the following concepts of OOPS means exposing only necessary information to client?	Encapsulation	Abstraction	Data hiding	Data hiding
+Why reference is not same as a pointer?	A reference can never be null	A reference once established cannot be changed	All of the above	All of the above
+Which of the following concepts provides facility of using object of one class inside another class?	Abstraction	Composition	Encapsulation	Composition
+How many types of polymorphisms are supported by C++?	1	4	2	2
+Which of the following is an abstract data type?	int	String	Class	Class
+Which of the following concepts means adding new components to a program as it runs?	Data hiding	Dynamic binding	Dynamic loading	Dynamic loading
+Which of the following statement is correct?	A constructor is called at the time of declaration of an object	A constructor is called at the time of use of an object	A constructor is called at the time of declaration of a class	A constructor is called at the time of declaration of an object
+Which of the following correctly describes overloading of functions?	Virtual polymorphism	Transient polymorphism	Ad-hoc polymorphism	Ad-hoc polymorphism
+Which of the following approach is adapted by C++?	Top-down	Bottom-up	Left-right	Bottom-up
+Which of the following is correct about function overloading?	The types of arguments are different	The order of argument is different	Both A and B	Both A and B
